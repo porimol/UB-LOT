@@ -1,0 +1,20 @@
+[project]
+name = "lot"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "imbalanced-learn>=0.13.0",
+    "ipykernel>=6.29.5",
+    "matplotlib>=3.10.1",
+    "numpy>=2.2.5",
+    "optuna>=4.3.0",
+    "pandas>=2.2.3",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "torch>=2.7.0",
+    "torchaudio>=2.7.0",
+    "torchvision>=0.22.0",
+    "xgboost>=3.0.0",
+]
